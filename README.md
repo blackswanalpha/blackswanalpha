@@ -1,7 +1,3 @@
-Great, I’ll review the blackswanalpha GitHub profile and repositories to craft a witty yet professional personal README. I’ll analyze themes across the projects, identify areas of AI and creative coding focus, and incorporate personality into the profile.
-
-I’ll let you know as soon as the draft is ready.
-
 
 # 🤖🎨 Hello, I’m Victor (a.k.a. *blackswanalpha*)
 
