@@ -2,11 +2,11 @@
 # 🚀 Hello  👋, I’m Victor Mbugua (a.k.a. *blackswanalpha*)
 
 
-I’m a Nairobi-based developer fusing **AI, code, and creativity** into quirky experiments. By day I’m a data analyst and UI/UX tinkerer, but I moonlight writing **my own programming language** and teaching computers to learn and play. For example, I built **Mono**, a reactive, statically-typed component-based language (with a Python-based interpreter). I’ve also cooked up AI-driven tools like an intelligent skill-tracker (Milestone) and mental-health apps (Mindy/MindTrack) that *track your well-being* with machine learning. When I’m not wrangling algorithms, I have fun coding classic games in Python (think Snake and 2048) and even a video generator powered by code (Genix).
+Based in **Nairobi:[KENYA]**, I blend AI, code, and creativity to produce playful, practical experiments, while still developing quality enterprise systems. By day I work as a software developer, data analyst and UI/UX tinkerer; by night I design programming languages, train playful ML agents, and ship thoughtful apps.
 
+**What I do**: build developer-first tools, design intuitive UIs, and architect ML systems that actually help people.
 
-
-- 🔭 I’m currently working on **mono**
+- 🔭 I’m currently working on **TimeBox**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,12 +32,12 @@ I'm a software engineer focused on building production-grade backends, modern we
 
 ## Technologies & Tools
 
-- Backend: Python, Django, Django REST Framework, FastAPI
-- Frontend: TypeScript, React, Next.js
-- Desktop: Electron
-- Databases & infra: PostgreSQL, SQLite, Redis, Celery
-- Dev tooling: GitHub Actions, Docker, CI/CD patterns
-- Languages: Python, TypeScript, JavaScript
+- **Backend:** Python, Django, Django REST Framework, FastAPI
+- **Frontend:** TypeScript, React, Next.js
+- **Desktop:** Electron
+- **Databases & infra**: PostgreSQL, SQLite, Redis, Celery
+- **Dev tooling:** GitHub Actions, Docker, CI/CD patterns
+- **Languages:** Python, TypeScript, JavaScript, Java, Rust
 
 ## How to collaborate
 
@@ -48,7 +48,7 @@ I'm a software engineer focused on building production-grade backends, modern we
 ## Contact
 
 - GitHub: https://github.com/blackswanalpha
-- Email: (add your preferred contact)
+- Email: kamandembugua18@gmail.com
 
 ---
 
