@@ -8,6 +8,155 @@ Based in **Nairobi:[KENYA]**, I blend AI, code, and creativity to produce playfu
 
 - 🔭 I’m currently working on **TimeBox**
 
+
+### Connect with me
+
+<p align="left">
+  <a href="https://github.com/blackswanalpha" target="_blank" rel="noreferrer">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://victor-mbugua-portfolio.netlify.app/" target="_blank" rel="noreferrer">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/mbugua-kamande-a796bb156" target="_blank" rel="noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:kamandembugua18@gmail.com" target="_blank" rel="noreferrer">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+---
+
+### Languages & Tools
+
+A clean, compact grid that groups common techs and links to their sites. Replace / expand icons below with your full set as needed.
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+        <div>Python</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+        <div>Django</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FastAPI">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="fastapi" width="40" height="40"/>
+        <div>FastAPI</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+        <div>Postgres</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+        <div>Docker</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://kubernetes.io" target="_blank" rel="noreferrer" title="Kubernetes">
+        <img src="https://www.vectorlogo.zone/logos/kubernetesio/kubernetesio-icon.svg" alt="kubernetes" width="40" height="40"/>
+        <div>K8s</div>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+        <div>React</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+        <div>Next.js</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+        <div>TypeScript</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="Node.js">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+        <div>Node.js</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.electronjs.org" target="_blank" rel="noreferrer" title="Electron">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
+        <div>Electron</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postman.com" target="_blank" rel="noreferrer" title="Postman">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        <div>Postman</div>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Pandas">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+        <div>Pandas</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://pytorch.org/" target="_blank" rel="noreferrer" title="PyTorch">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+        <div>PyTorch</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" title="TensorFlow">
+        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+        <div>TensorFlow</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.redis.io" target="_blank" rel="noreferrer" title="Redis">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+        <div>Redis</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+        <div>MySQL</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+        <div>MongoDB</div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--
+Notes:
+- Use the table above as a compact, readable grid that works well in GitHub READMEs.
+- To include your full (long) list of icons, paste them into more table rows or generate multiple smaller tables grouped by category (Backend / Frontend / ML / Infra).
+-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
