@@ -6,7 +6,7 @@ Based in **Nairobi:[KENYA]**, I blend AI, code, and creativity to produce playfu
 
 **What I do**: build developer-first tools, design intuitive UIs, and architect ML systems that actually help people.
 
-- 🔭 I’m currently working on **TimeBox**
+- 🔭 I’m currently working on **TimeBox**, **SharePlay**, **SpinWish**, and **mintyAI**
 
 
 ### Connect with me
