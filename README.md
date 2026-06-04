@@ -27,6 +27,10 @@ Based in **Nairobi:[KENYA]**, I blend AI, code, and creativity to produce playfu
 </p>
 
 ---
+### Acess to site i have worked on 
+1. Centraqu/Assurehub - https://app.centraqu.net/
+2. barberians - https://www.barberianspa.com/home/ (agentic engineering)
+---
 
 ### Languages & Tools
 
