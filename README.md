@@ -1,22 +1,14 @@
+<div align="center">
 
-# 🚀 Hello  👋, I’m Victor Mbugua (a.k.a. *blackswanalpha*)
+# Victor Mbugua
 
+**Software Engineer · Nairobi, Kenya**
 
-Based in **Nairobi:[KENYA]**, I blend AI, code, and creativity to produce playful, practical experiments, while still developing quality enterprise systems. By day I work as a software developer, data analyst and UI/UX tinkerer; by night I design programming languages, train playful ML agents, and ship thoughtful apps.
+*I build production systems for a living and strange little languages for love.*
 
-**What I do**: build developer-first tools, design intuitive UIs, and architect ML systems that actually help people.
-
-- 🔭 I’m currently working on **TimeBox**, **SharePlay**, **SpinWish**, and **mintyAI**
-
-
-### Connect with me
-
-<p align="left">
-  <a href="https://github.com/blackswanalpha" target="_blank" rel="noreferrer">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<p>
   <a href="https://victor-mbugua-portfolio.netlify.app/" target="_blank" rel="noreferrer">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=netlify&logoColor=white">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-13224A?style=for-the-badge&logo=netlify&logoColor=C9A227">
   </a>
   <a href="https://www.linkedin.com/in/mbugua-kamande-a796bb156" target="_blank" rel="noreferrer">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -24,13 +16,49 @@ Based in **Nairobi:[KENYA]**, I blend AI, code, and creativity to produce playfu
   <a href="mailto:kamandembugua18@gmail.com" target="_blank" rel="noreferrer">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://github.com/blackswanalpha?tab=repositories" target="_blank" rel="noreferrer">
+    <img alt="Repositories" src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
+</div>
+
 ---
-### Acess to site i have worked on 
-1. Centraqu/Assurehub - https://app.centraqu.net/
-2. barberians - https://www.barberianspa.com/home/ (agentic engineering)
-3. shareplay - https://share.spinwish.tech/
+
+## Hello 👋
+
+I'm a full-stack engineer working across **Python (Django, FastAPI)**, **TypeScript (React, Next.js)**,
+**Go**, **Rust** and **Flutter** — mostly on multi-tenant SaaS, payment rails and the kind of internal
+platforms that quietly hold a business together.
+
+The short version: **I like the boring parts done properly and the interesting parts done playfully.**
+Typed contracts, tests that gate CI, accessible interfaces, containers that come back up on their own —
+and then, once that's solid, a terminal emulator with an AI agent in it, or a programming language
+written for the sheer pleasure of watching a parser click into place.
+
+I hold a **BSc in Information Technology (JKUAT)** and a **DevOps Engineering certification (Moringa, 2025)**,
+which is a formal way of saying I can build the thing *and* keep it running at 2am.
+
+```text
+by day    →  loan origination platforms, payment protocols, multi-tenant school systems
+by night  →  a toy language, an x86_64 kernel in Rust, an offline-first finance app
+always    →  coffee, good typography, and one more refactor
+```
+
+### 🔭 Currently building
+
+**TimeBox** · **SharePlay** · **SpinWish** · **mintyAI** — and steadily improving whatever I shipped last month.
+
+---
+
+## Shipped & Live
+
+| Project | What it is | Where |
+|---|---|---|
+| **CentraQu / AssureHub** | Audit, compliance and workflow automation | [app.centraqu.net](https://app.centraqu.net/) |
+| **Barberian Spa** | Booking and salon operations *(agentic engineering)* | [barberianspa.com](https://www.barberianspa.com/home/) |
+| **SharePlay** | Synchronised watch parties over WebSockets | [share.spinwish.tech](https://share.spinwish.tech/) |
+
 ---
 
 ### Languages & Tools
@@ -291,60 +319,142 @@ A clean, compact grid that groups common techs and links to their sites. Replace
   </tr>
 </table>
 
+---
 
+## Featured Work
 
-I'm a **Creative Engineer** focused on building production-grade backends, modern web applications, developer tools, and AI-assisted developer experiences. I work across Python (Django, FastAPI), TypeScript/React/Next.js, and Electron-based desktop apps.
+> Repositories are public unless noted. Happy to walk through any of them.
 
-## Featured Projects
+**🏦 [lendora](https://github.com/blackswanalpha/lendora)** — Loan origination platform covering the full
+lifecycle from lead capture through underwriting to disbursement. 238 App Router routes and 11 nested
+layouts across four role-specific portals, Redux Toolkit for shared state, Radix UI underneath every
+dialog and form control.
+`Next.js 16 · React 19 · TypeScript · Redux Toolkit · Tailwind`
 
-- **xuperb_backend** — A comprehensive REST API backend for the Xuperb Car Rental & Garage Management System. Built with Django and Django REST Framework; handles vehicle management, contracts, user management, and analytics.
-- **minty** — A cross-platform terminal emulator built with Electron + React + TypeScript. Includes AI-powered agent tooling for codebase analysis and developer workflows.
-- **shareplay & shareplay_backend** — Real-time collaborative platform and a high-performance FastAPI backend enabling synchronized watch parties, WebSocket signaling, and secure auth.
-- **backend_centra / CentraQu** — Core backend services (Django REST) and frontend (Next.js) for AssureHub — audit reporting, compliance, and workflow automation tools.
-- **mandtrack / mindtrackapp** — Experimental projects exploring web UIs and mental-health focused AI applications.
+**💸 [paylink](https://github.com/blackswanalpha/paylink)** — The PayLink protocol: non-custodial payment
+coordination that links any rail (M-Pesa, card, bank, on-chain) to settlement logic. The frontend leans
+hard on the failure paths — error boundaries with recovery, offline detection, optimistic updates that
+roll back, retry with backoff — with 31 React Testing Library suites gated in CI.
+`Next.js 16 · React 19 · TypeScript · Zustand · Go · Python · Vitest`
 
-(For a full list, see my repositories and pinned projects on my GitHub profile.)
+**🧠 [mindtrack](https://github.com/blackswanalpha/mindtrack)** — Questionnaire design, distribution,
+scoring and multi-organisation reporting for mental-health practitioners. 54 App Router routes and 108
+components, tested with Jest, React Testing Library and Playwright.
+`Next.js 15 · React 19 · TypeScript · Tailwind · Playwright`
 
-## Technologies & Tools
+**🖥️ [minty](https://github.com/blackswanalpha/minty)** — A cross-platform terminal emulator with AI agent
+tooling built in for codebase analysis and developer workflows.
+`Electron · React 19 · TypeScript · Zustand`
 
-- **Backend:** Python, Django, Django REST Framework, FastAPI
-- **Frontend:** TypeScript, React, Next.js
-- **Desktop:** Electron
-- **Databases & infra**: PostgreSQL, SQLite, Redis, Celery
-- **Dev tooling:** GitHub Actions, Docker, CI/CD patterns
-- **Languages:** Python, TypeScript, JavaScript, Java, Rust
+**🦀 [willo-main](https://github.com/blackswanalpha/willo-main)** — An x86_64 kernel written in Rust,
+because at some point you want to know what is actually underneath everything else.
+`Rust · bare metal`
 
-## How to collaborate
+**🚗 [xuperbadminapp](https://github.com/blackswanalpha/xuperbadminapp)** — Car rental and garage
+management across 70 App Router routes, with digital contracts, e-signatures, fleet tracking and invoicing.
+`Next.js 16 · React 19 · TypeScript · Radix UI`
 
-- Open an issue or PR on the relevant repository.
-- For feature requests or product discussions, create an issue and tag it `enhancement`.
-- For bugs, please include reproduction steps and logs.
+**📊 [topdeck](https://github.com/blackswanalpha/topdeck)** — Desktop system monitor pulling live CPU,
+memory, disk and sensor metrics into dashboards with threshold alerting, on a plugin architecture.
+`Python · PyQt6 · SQLAlchemy`
 
-## Contact
+**🔤 [mono](https://github.com/blackswanalpha/mono)** — A programming language. Written for the joy of it.
+`Python`
 
-- GitHub: https://github.com/blackswanalpha
-- Email: kamandembugua18@gmail.com
+<sub>Also: <a href="https://github.com/blackswanalpha/guardtrack">guardtrack</a> (geofenced attendance, Flutter) ·
+<a href="https://github.com/blackswanalpha/shareplay">shareplay</a> (realtime watch parties) ·
+<a href="https://github.com/blackswanalpha/hivemind-main">hivemind-main</a> (Rust) ·
+<a href="https://github.com/blackswanalpha/learnium">learnium</a> (multi-tenant school SaaS) ·
+<a href="https://github.com/blackswanalpha/globalcool">globalcool</a> (HVAC services platform)</sub>
 
 ---
 
-Thanks for visiting — feel free to explore the projects and open issues or PRs if you'd like to contribute or collaborate!
+## How I Build
 
-Each project combines tech and a dash of fun – no two are alike!
+Same shape on almost every project — the discipline is what makes the playful parts affordable.
 
-I’m happiest when I’m blending domains – building a UI that feeds a neural net, or a game that debugs my sleep pattern, for example.
+```mermaid
+flowchart LR
+    A["🎯 Problem<br/>worth solving"] --> B["✏️ Design<br/>types & contracts first"]
+    B --> C["🧩 Build<br/>components + API"]
+    C --> D["🧪 Test<br/>unit · component · e2e"]
+    D --> E{"CI gate"}
+    E -- "fails" --> C
+    E -- "passes" --> F["🚢 Ship<br/>Docker · CI/CD"]
+    F --> G["📈 Observe<br/>metrics & alerts"]
+    G --> A
 
-## 😄 A Little Flair
+    style A fill:#13224A,stroke:#C9A227,stroke-width:2px,color:#fff
+    style B fill:#1B2E5E,stroke:#C9A227,color:#fff
+    style C fill:#1B2E5E,stroke:#C9A227,color:#fff
+    style D fill:#1B2E5E,stroke:#C9A227,color:#fff
+    style E fill:#C9A227,stroke:#13224A,stroke-width:2px,color:#13224A
+    style F fill:#1B2E5E,stroke:#C9A227,color:#fff
+    style G fill:#13224A,stroke:#C9A227,stroke-width:2px,color:#fff
+```
 
-* Coffee-fueled coder ☕ and perpetual learner 📚 – always exploring new libraries or AI tricks.
-* Keeps a sense of humor: my code sometimes has more comments than sense! 🤷‍♂️
-* Solver of puzzles, breaker of compilation errors, and fan of meaningful side projects.
+**What that means in practice**
 
-Whether it’s writing a toy language or training a model to tell jokes, I’m all about creative coding and clever automation.
+| Layer | How I approach it |
+|---|---|
+| **Rendering** | SSG for pages identical to everyone · ISR for scheduled content · SSR + server components for per-user data · client components behind Suspense for interaction |
+| **State** | Zustand, Redux Toolkit, TanStack Query or Context — chosen by fit, never by default |
+| **Accessibility** | WCAG 2.1 AA as a build standard: semantics, ARIA, keyboard reach, focus traps, `prefers-reduced-motion` |
+| **Testing** | Playwright end-to-end, React Testing Library for components and hooks, gated in CI |
+| **Security** | XSS escaping, CSP headers, httpOnly cookies, deliberate token storage, schema validation at every boundary |
+| **Delivery** | Docker, GitHub Actions, AWS — if I built it, I can keep it running |
 
 ---
 
-*📬 Let’s connect!* (Check out my [portfolio](https://victor-mbugua-portfolio.netlify.app/) or [LinkedIn](https://www.linkedin.com/in/mbugua-kamande-a796bb156) to see more.)
+## By the Numbers
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=blackswanalpha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=C9A227&icon_color=C9A227">
+  <img alt="Victor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=blackswanalpha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=13224A&icon_color=C9A227" height="165">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blackswanalpha&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&title_color=C9A227">
+  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackswanalpha&layout=compact&hide_border=true&langs_count=10&title_color=13224A" height="165">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=blackswanalpha&hide_border=true&theme=tokyonight&ring=C9A227&fire=C9A227&currStreakLabel=C9A227">
+  <img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=blackswanalpha&hide_border=true&ring=C9A227&fire=C9A227&currStreakLabel=13224A" height="165">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=blackswanalpha&theme=tokyo-night&hide_border=true&line=C9A227&point=ffffff">
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=blackswanalpha&theme=github-light&hide_border=true&line=C9A227&point=13224A" width="100%">
+</picture>
+
+</div>
 
 ---
 
-**Sources:** Info drawn from my GitHub projects (e.g., Mono language, AI/mental-health tools, and creative apps).
+## Working Together
+
+- **Found a bug?** Open an issue with reproduction steps and logs — that alone gets it fixed twice as fast.
+- **Want a feature?** Open an issue tagged `enhancement` and tell me the problem, not just the solution.
+- **Want to build something?** Email me. I read everything.
+
+I'm open to backend, full-stack and frontend work, and I'm always glad to talk through an architecture
+problem even if nothing comes of it.
+
+---
+
+<div align="center">
+
+### A little flair
+
+**Coffee-fuelled** ☕ · **perpetual learner** 📚 · **collector of half-finished compilers** 🔤
+
+I'm happiest blending domains — a UI that feeds a neural net, a game that debugs my sleep schedule,
+a kernel written on weekends. Every project gets a little tech and a little fun; no two are alike.
+
+**📬 [Portfolio](https://victor-mbugua-portfolio.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/mbugua-kamande-a796bb156) · [kamandembugua18@gmail.com](mailto:kamandembugua18@gmail.com)**
+
+*Thanks for stopping by — pull requests, issues and good arguments all welcome.*
+
+</div>
