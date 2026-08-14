@@ -410,18 +410,38 @@ flowchart LR
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=blackswanalpha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight&title_color=C9A227&icon_color=C9A227">
-  <img alt="Victor's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=blackswanalpha&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=13224A&icon_color=C9A227" height="165">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=blackswanalpha&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&title_color=C9A227">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackswanalpha&layout=compact&hide_border=true&langs_count=10&title_color=13224A" height="165">
-</picture>
+| | |
+|---|---|
+| **66** public repositories | **11** languages leading a project |
+| **~70 MB** of source across them | **Building since 2019** |
+
+</div>
+
+### Language mix
+
+Measured across all 66 public repositories, by bytes of source.
+
+```mermaid
+pie showData
+    "Python" : 32.72
+    "TypeScript" : 24.00
+    "HTML" : 22.51
+    "JavaScript" : 6.40
+    "Dart" : 5.67
+    "CSS" : 2.40
+    "Go" : 1.83
+    "Java" : 1.79
+    "Other (SCSS, Rust, PHP, Shell)" : 2.68
+```
+
+Python and TypeScript carry the production work; Dart is Flutter; Go and Rust are where the
+systems-level curiosity goes. The HTML share is mostly generated template output, not hand-written.
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=blackswanalpha&hide_border=true&theme=tokyonight&ring=C9A227&fire=C9A227&currStreakLabel=C9A227">
-  <img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=blackswanalpha&hide_border=true&ring=C9A227&fire=C9A227&currStreakLabel=13224A" height="165">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=blackswanalpha&hide_border=true&theme=tokyonight&ring=C9A227&fire=C9A227&currStreakLabel=C9A227">
+  <img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=blackswanalpha&hide_border=true&ring=C9A227&fire=C9A227&currStreakLabel=13224A" height="180">
 </picture>
 
 <picture>
