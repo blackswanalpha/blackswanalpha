@@ -81,7 +81,7 @@ A clean, compact grid that groups common techs and links to their sites. Replace
     </td>
     <td align="center">
       <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FastAPI">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="fastapi" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/>
         <div>FastAPI</div>
       </a>
     </td>
@@ -99,7 +99,7 @@ A clean, compact grid that groups common techs and links to their sites. Replace
     </td>
     <td align="center">
       <a href="https://kubernetes.io" target="_blank" rel="noreferrer" title="Kubernetes">
-        <img src="https://www.vectorlogo.zone/logos/kubernetesio/kubernetesio-icon.svg" alt="kubernetes" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/>
         <div>K8s</div>
       </a>
     </td>
@@ -231,7 +231,7 @@ A clean, compact grid that groups common techs and links to their sites. Replace
     </td>
     <td align="center">
       <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer" title="Rust">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
         <div>Rust</div>
       </a>
     </td>
@@ -306,7 +306,7 @@ A clean, compact grid that groups common techs and links to their sites. Replace
     </td>
     <td align="center">
       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
-        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
         <div>Flask</div>
       </a>
     </td>
@@ -314,6 +314,132 @@ A clean, compact grid that groups common techs and links to their sites. Replace
       <a href="https://flutter.dev" target="_blank" rel="noreferrer" title="Flutter">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
         <div>Flutter</div>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://tailwindcss.com" target="_blank" rel="noreferrer" title="Tailwind CSS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
+        <div>Tailwind</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://redux.js.org" target="_blank" rel="noreferrer" title="Redux">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+        <div>Redux</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://vitejs.dev" target="_blank" rel="noreferrer" title="Vite">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/>
+        <div>Vite</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jestjs.io" target="_blank" rel="noreferrer" title="Jest">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" width="40" height="40"/>
+        <div>Jest</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://playwright.dev" target="_blank" rel="noreferrer" title="Playwright">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" alt="playwright" width="40" height="40"/>
+        <div>Playwright</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://graphql.org" target="_blank" rel="noreferrer" title="GraphQL">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="40" height="40"/>
+        <div>GraphQL</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://sass-lang.com" target="_blank" rel="noreferrer" title="Sass">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+        <div>Sass</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://socket.io" target="_blank" rel="noreferrer" title="Socket.IO">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" alt="socketio" width="40" height="40"/>
+        <div>Socket.IO</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dart.dev" target="_blank" rel="noreferrer" title="Dart">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
+        <div>Dart</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://soliditylang.org" target="_blank" rel="noreferrer" title="Solidity">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" alt="solidity" width="40" height="40"/>
+        <div>Solidity</div>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://git-scm.com" target="_blank" rel="noreferrer" title="Git">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+        <div>Git</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/features/actions" target="_blank" rel="noreferrer" title="GitHub Actions">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="githubactions" width="40" height="40"/>
+        <div>Actions</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="AWS">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+        <div>AWS</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.terraform.io" target="_blank" rel="noreferrer" title="Terraform">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/>
+        <div>Terraform</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.ansible.com" target="_blank" rel="noreferrer" title="Ansible">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+        <div>Ansible</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.jenkins.io" target="_blank" rel="noreferrer" title="Jenkins">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/>
+        <div>Jenkins</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://prometheus.io" target="_blank" rel="noreferrer" title="Prometheus">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="prometheus" width="40" height="40"/>
+        <div>Prometheus</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://grafana.com" target="_blank" rel="noreferrer" title="Grafana">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="grafana" width="40" height="40"/>
+        <div>Grafana</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.elastic.co/elasticsearch" target="_blank" rel="noreferrer" title="Elasticsearch">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elasticsearch/elasticsearch-original.svg" alt="elasticsearch" width="40" height="40"/>
+        <div>Elastic</div>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer" title="RabbitMQ">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitmq" width="40" height="40"/>
+        <div>RabbitMQ</div>
       </a>
     </td>
   </tr>
@@ -392,17 +518,6 @@ flowchart LR
     style F fill:#1B2E5E,stroke:#C9A227,color:#fff
     style G fill:#13224A,stroke:#C9A227,stroke-width:2px,color:#fff
 ```
-
-**What that means in practice**
-
-| Layer | How I approach it |
-|---|---|
-| **Rendering** | SSG for pages identical to everyone · ISR for scheduled content · SSR + server components for per-user data · client components behind Suspense for interaction |
-| **State** | Zustand, Redux Toolkit, TanStack Query or Context — chosen by fit, never by default |
-| **Accessibility** | WCAG 2.1 AA as a build standard: semantics, ARIA, keyboard reach, focus traps, `prefers-reduced-motion` |
-| **Testing** | Playwright end-to-end, React Testing Library for components and hooks, gated in CI |
-| **Security** | XSS escaping, CSP headers, httpOnly cookies, deliberate token storage, schema validation at every boundary |
-| **Delivery** | Docker, GitHub Actions, AWS — if I built it, I can keep it running |
 
 ---
 
